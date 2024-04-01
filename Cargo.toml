@@ -1,0 +1,12 @@
+[package]
+name = "bevy_mod_fornjot"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.13.1"
+fj-core = "0.49.0"
+fj-interop = "0.49.0"
+fj-math = "0.49.0"
